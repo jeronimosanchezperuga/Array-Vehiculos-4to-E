@@ -17,7 +17,8 @@ public class AlquilerVehiculos : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.R))
         {
-
+            //Se desactiven todos los vehiculos
+            //y se active un vehículo al azar del array
         }   
     }
 
